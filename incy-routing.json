@@ -20,7 +20,8 @@
 		"nalog.gov.ru",
 		"lkfl2.nalog.ru",
 		"mos.ru",
-		"www.mos.ru"
+		"www.mos.ru",
+		"2ip.ru"
 	],
 	"DirectIp": [
 		"10.0.0.0/8",
